@@ -170,4 +170,4 @@ string GetFinalSchedule(string @class, string day)
     };
 }
 
-Console.ReadLine();
+await Task.Delay(-1);
